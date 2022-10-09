@@ -19,7 +19,7 @@
 </span>
 
 <span align="right">
-![Adrian's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaXAI&hide_border=true&theme=radical)
+[![Adrian's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaXAI&hide_border=true)]
 </span>
  
  
