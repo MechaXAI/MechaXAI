@@ -3,11 +3,11 @@
 <p>Hey there, welcome!</br>
   I'm Adrian, software engineer from <img src="https://img.icons8.com/fluency/48/000000/peru-circular.png" width="14px"/> <b>Lima, Peru</b>.</p>
 
-  🔭 &nbsp: I’m currently working on software development for automation
-  👯 &nbsp: I’m looking to collaborate on automation projects
-  🤔 &nbsp: I’m looking for help with development of robotics projects
-  💬 &nbsp: Ask me about tools for autonomous software development 
-  📫 &nbsp: How to reach me: adrianxalzamora@gmail.com
+  🔭 &nbsp; I’m currently working on software development for automation
+  👯 &nbsp; I’m looking to collaborate on automation projects
+  🤔 &nbsp; I’m looking for help with development of robotics projects
+  💬 &nbsp; Ask me about tools for autonomous software development 
+  📫 &nbsp; How to reach me: adrianxalzamora@gmail.com
 </p>
 
   
