@@ -12,6 +12,15 @@
 </p>
 
   
+## 📈 &nbsp;Github Stats ##
+<span align="left">
+
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MechaXAI)](https://github.com/MechaXAI/github-readme-stats)
+</span>
+
+
+ 
+ 
 <!--
 **MechaXAI/MechaXAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
