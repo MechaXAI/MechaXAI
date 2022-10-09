@@ -13,13 +13,13 @@
 
   
 ## 📈 &nbsp;Github Stats ##
-<span align="left">
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MechaXAI&show_icons=true&hide_border=true&theme=radical)](https://github.com/MechaXAI/github-readme-stats)
+<span align="left">
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MechaXAI&show_icons=true&hide_border=true&theme=dracula)](https://github.com/MechaXAI/github-readme-stats)
 </span>
 
-<span align="right">
-[![Adrian's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaXAI&hide_border=true)]
+<span align="right"> 
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaXAI&hide_border=true&theme=dracula)
 </span>
  
  
