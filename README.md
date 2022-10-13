@@ -12,6 +12,8 @@
 </p>
 
   
+  
+<!--
 ## 📈 &nbsp; Github Stats ##
 
 
@@ -22,7 +24,7 @@
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaXAI&hide_border=true&theme=dracula)
 
  
-<!--
+
 **MechaXAI/MechaXAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
